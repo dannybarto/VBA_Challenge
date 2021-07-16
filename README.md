@@ -13,11 +13,14 @@ The purpose of this analysis is to use the code to analyze all stock market data
 - TERP was the big loser having lost value two years in a row
 - Results for both 2017 and 2018 were retured in less than 1 second
 
+###### Screenshots for Reference
+
 2017_Stock_Analysis.png![2017_Stock_Analysis](https://user-images.githubusercontent.com/85522326/125882184-1ab18b05-dd28-471f-909a-c45ff673f889.png)
 
 2018_Stock_Analysis.png![2018_Stock_Analysis](https://user-images.githubusercontent.com/85522326/125882195-3f6b595d-69e6-467b-9a27-3199912b9f60.png)
 
-####Screenshots for Reference
+###### Full Refactored Code
+
 Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
     Dim endTime  As Single
