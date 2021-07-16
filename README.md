@@ -21,10 +21,10 @@ The purpose of this analysis is to use the code to analyze all stock market data
 
 ###### Full Refactored Code
 
-Sub AllStocksAnalysisRefactored()
+    Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
     Dim endTime  As Single
-
+    
     yearValue = InputBox("What year would you like to run the analysis on?")
 
     startTime = Timer
@@ -131,8 +131,14 @@ Sub AllStocksAnalysisRefactored()
  
     endTime = Timer
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
+    
+      End Sub
+   
+ 
 
-End Sub
+
+
+
 
 ## Summary
 
