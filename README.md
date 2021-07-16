@@ -143,9 +143,16 @@ The purpose of this analysis is to use the code to analyze all stock market data
 ## Summary
 
 - Detailed statement on the advantages and disadvantages of refactoring code in general
+
+  ##Advantages
   
-  - It looks like mid year is the ideal time to launch a campaign
-  - The 4th quarter has a higher fail rate relative to successful campaigns than the rest of the year
+  - Simpler to read and understand the code
+  - Easier to maintain
+  
+  ##Disadvantages
+  
+  - Refactoring code is a very time intensive process 
+  - Refactoring is not very flexible as you cannot introduce new functionality
 
 - Detailed statement on the advantages and disadvantages of the original and refactored VBA script
 
