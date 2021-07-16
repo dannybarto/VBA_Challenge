@@ -142,20 +142,26 @@ The purpose of this analysis is to use the code to analyze all stock market data
 
 ## Summary
 
-- Detailed statement on the advantages and disadvantages of refactoring code in general
+- ### Detailed statement on the advantages and disadvantages of refactoring code in general
 
-  ## Advantages
+  ### Advantages
   
   - Simpler to read and understand the code
   - Easier to maintain
   
-  ## Disadvantages
+  ### Disadvantages
   
   - Refactoring code is a very time intensive process 
   - Refactoring is not very flexible as you cannot introduce new functionality
-
-- Detailed statement on the advantages and disadvantages of the original and refactored VBA script
-
-  - It can be concluded that the smaller the goal is the more likely it is that it will be successful
-  - The number goals set correlates to a higher success rate
-
+   
+- ### Detailed statement on the advantages and disadvantages of the original and refactored VBA script
+  
+  ### Advantages
+  
+  - We know that the original code already works
+  - With original code there is no need to re-allocate resources within the organization
+  
+  ### Disadvantages
+  
+  - In the long term the initial investment in refactoring code might pay off due to the increased efficiency and understandability of the code
+  - The refactored code is scalable whereas the original code is not. 
