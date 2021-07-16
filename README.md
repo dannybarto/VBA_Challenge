@@ -7,6 +7,11 @@ The purpose of this analysis is to use the code to analyze all stock market data
 
 ### Results
 
+- 2017 was the ideal year for making investments
+- ENPH was the top performer over the two years that were analyzed
+- RUN provided positive returns for both years
+- TERP was the big loser having lost value two years in a row
+
 Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
     Dim endTime  As Single
