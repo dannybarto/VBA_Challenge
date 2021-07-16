@@ -144,12 +144,12 @@ The purpose of this analysis is to use the code to analyze all stock market data
 
 - Detailed statement on the advantages and disadvantages of refactoring code in general
 
-  ##Advantages
+  ## Advantages
   
   - Simpler to read and understand the code
   - Easier to maintain
   
-  ##Disadvantages
+  ## Disadvantages
   
   - Refactoring code is a very time intensive process 
   - Refactoring is not very flexible as you cannot introduce new functionality
