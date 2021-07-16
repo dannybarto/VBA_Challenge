@@ -12,10 +12,9 @@ The purpose of this analysis is to use the code to analyze all stock market data
 - RUN provided positive returns for both years
 - TERP was the big loser having lost value two years in a row
 
-[2017_Stock_Analysis](https://user-images.githubusercontent.com/85522326/125881995-518ed19d-c2fd-4a7d-a496-aa6f4c3b93ab.png)
+2017_Stock_Analysis.png![2017_Stock_Analysis](https://user-images.githubusercontent.com/85522326/125882184-1ab18b05-dd28-471f-909a-c45ff673f889.png)
 
-[2018_Stock_Analysis](https://user-images.githubusercontent.com/85522326/125882133-086a5c10-1dc9-447b-9c61-6d9426488bc9.png)
-
+2018_Stock_Analysis.png![2018_Stock_Analysis](https://user-images.githubusercontent.com/85522326/125882195-3f6b595d-69e6-467b-9a27-3199912b9f60.png)
 
 
 Sub AllStocksAnalysisRefactored()
