@@ -1,4 +1,4 @@
-Sub AllStocksAnalysisRefactored()
+Sub AllStocksAnalysisRefactored2022()
     Dim startTime As Single
     Dim endTime  As Single
 
